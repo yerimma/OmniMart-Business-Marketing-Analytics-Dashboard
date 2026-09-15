@@ -131,3 +131,4 @@ The dashboard helps identify **where revenue and profitability are being generat
 The dashboard converts raw historical business data into a **decision-support tool**, allowing stakeholders to quickly identify performance gaps, monitor KPIs, evaluate marketing efficiency, and focus on areas with the greatest potential for business improvement.
 
 https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Performance%20Overview.png
+https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Operational%20Performance%20.png
