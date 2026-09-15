@@ -133,3 +133,4 @@ The dashboard converts raw historical business data into a **decision-support to
 https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Performance%20Overview.png
 https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Operational%20Performance%20.png
 https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Marketing%20Effectiveness.png
+https://github.com/yerimma/OmniMart-Business-Marketing-Analytics-Dashboard/blob/main/Insights.png
